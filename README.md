@@ -8,8 +8,7 @@
 
 # Sobre mí
 
-Soy Ingeniero en Desarrollo de Software recién egresado de la Universidad Tecmilenio, con formación en desarrollo de software, bases de datos, programación y procesamiento de datos
--Tengo experiencia práctica en Tecnologías de la Información y he participado en proyectos académicos utilizando diferentes lenguajes, herramientas y metodologías de desarrollo. Actualmente estoy buscando una oportunidad como **Desarrollador de Software Junior**, donde pueda continuar desarrollando mis habilidades y aportar a proyectos reales.
+Soy Ingeniero en Desarrollo de Software recién egresado de la Universidad Tecmilenio, con formación en desarrollo de software, bases de datos, programación y procesamiento de datos. Tengo experiencia práctica en Tecnologías de la Información y he participado en proyectos académicos utilizando diferentes lenguajes, herramientas y metodologías de desarrollo. Actualmente estoy buscando una oportunidad como **Desarrollador de Software Junior**, donde pueda continuar desarrollando mis habilidades y aportar a proyectos reales.
 
 # Tecnologías y herramientas
 # Lenguajes
