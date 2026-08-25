@@ -69,14 +69,14 @@ Proyecto académico enfocado en estructuras de datos, indexación y búsqueda de
 
 [Ver proyecto](https://github.com/Davidmontoyam24/search-engine-project)
 
-## 📚 Actualmente
+# Actualmente
 
 * Buscando mi primera oportunidad profesional como desarrollador.
 * Fortaleciendo mis conocimientos en desarrollo de software.
 * Explorando procesamiento y análisis de datos.
 * Construyendo proyectos para seguir ampliando mi portafolio.
 
-## 🤝 Contacto
+# Contacto
 
 Si quieres conocer más sobre mi perfil profesional o alguno de mis proyectos, puedes contactarme a través de:
 
